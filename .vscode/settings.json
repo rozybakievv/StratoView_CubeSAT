@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "charconv": "c",
+        "string": "c",
+        "vector": "c",
+        "exception": "c",
+        "format": "c",
+        "limits": "c",
+        "sstream": "c",
+        "functional": "c"
+    }
+}
