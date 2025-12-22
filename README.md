@@ -16,30 +16,32 @@ In progress ...
 **Ground Station:**
 Language: Python
 
+<img width="1828" height="1244" alt="image" src="https://github.com/user-attachments/assets/6a8f8fe0-a12f-43a4-bc6c-9748e9a05e6c" />
+
 
 ## 💡 Hardware Components
 
- ESP32 (for deep sleep)
+- ESP32 (for deep sleep)
 
- STM32
+- STM32
 
- BMP180 – Altitude / Temperature / Pressure
+- BMP180 – Altitude / Temperature / Pressure
 
- MPU6050 – Gyroscope + Accelerometer (IMU)
+- MPU6050 – Gyroscope + Accelerometer (IMU)
 
- LoRa Radio Module (with ground-station receiver)
+- LoRa Radio Module (with ground-station receiver)
 
- Camera Module
+- Camera Module
 
- GPS NEO-6M (coordinates + speed)
+- GPS NEO-6M (coordinates + speed)
 
- LiPo Battery (high-altitude safe)
+- LiPo Battery (high-altitude safe)
 
- SD Card Module (local data + image storage)
+- SD Card Module (local data + image storage)
 
- 3D-Printed Enclosure (CubeSAT frame)
+- 3D-Printed Enclosure (CubeSAT frame)
 
- Parachute System (recovery after descent)
+- Parachute System (recovery after descent)
  
 ## Authors
 
