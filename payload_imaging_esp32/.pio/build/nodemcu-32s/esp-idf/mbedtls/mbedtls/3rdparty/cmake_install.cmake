@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/esp-idf/mbedtls/mbedtls/3rdparty/everest/cmake_install.cmake")
-  include("C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/cmake_install.cmake")
+  include("C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/esp-idf/mbedtls/mbedtls/3rdparty/everest/cmake_install.cmake")
+  include("C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/cmake_install.cmake")
 
 endif()
 

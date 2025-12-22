@@ -8,12 +8,12 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/include",
-                "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/src",
+                "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/include",
+                "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/src",
                 "C:/Users/rozzy/.platformio/packages/framework-espidf/components/xtensa/esp32/include",
                 "C:/Users/rozzy/.platformio/packages/framework-espidf/components/xtensa/include",
                 "C:/Users/rozzy/.platformio/packages/framework-espidf/components/xtensa/deprecated_include",
-                "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/config",
+                "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/config",
                 "C:/Users/rozzy/.platformio/packages/framework-espidf/components/newlib/platform_include",
                 "C:/Users/rozzy/.platformio/packages/framework-espidf/components/freertos/config/include",
                 "C:/Users/rozzy/.platformio/packages/framework-espidf/components/freertos/config/include/freertos",
@@ -182,12 +182,12 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/include",
-                    "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/src",
+                    "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/include",
+                    "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/src",
                     "C:/Users/rozzy/.platformio/packages/framework-espidf/components/xtensa/esp32/include",
                     "C:/Users/rozzy/.platformio/packages/framework-espidf/components/xtensa/include",
                     "C:/Users/rozzy/.platformio/packages/framework-espidf/components/xtensa/deprecated_include",
-                    "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/config",
+                    "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/config",
                     "C:/Users/rozzy/.platformio/packages/framework-espidf/components/newlib/platform_include",
                     "C:/Users/rozzy/.platformio/packages/framework-espidf/components/freertos/config/include",
                     "C:/Users/rozzy/.platformio/packages/framework-espidf/components/freertos/config/include/freertos",

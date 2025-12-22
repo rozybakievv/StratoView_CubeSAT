@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/CMakeFiles/bootloader
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/CMakeFiles/bootloader.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/CMakeFiles/bootloader-complete.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/CMakeFiles/bootloader
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/CMakeFiles/bootloader.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/CMakeFiles/bootloader-complete.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

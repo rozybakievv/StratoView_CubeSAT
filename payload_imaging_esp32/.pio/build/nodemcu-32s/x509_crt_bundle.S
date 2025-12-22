@@ -1,4 +1,4 @@
-/* * Data converted from C:\Users\rozzy\OneDrive\Documents\2_Projects\StratoView_CubeSAT\.pio\build\nodemcu-32s\x509_crt_bundle
+/* * Data converted from C:\Users\rozzy\OneDrive\Documents\2_Projects\StratoView_CubeSAT\payload_imaging_esp32\.pio\build\nodemcu-32s\x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

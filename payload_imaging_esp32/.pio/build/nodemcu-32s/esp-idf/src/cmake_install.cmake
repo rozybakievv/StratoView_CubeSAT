@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/src
+# Install script for directory: C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

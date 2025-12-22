@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/CMakeFiles/bootloader"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/CMakeFiles/bootloader.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/CMakeFiles/bootloader-complete.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

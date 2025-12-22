@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader/esp-idf/cmake_install.cmake")
+  include("C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -57,6 +57,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/.pio/build/nodemcu-32s/bootloader/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/rozzy/OneDrive/Documents/2_Projects/StratoView_CubeSAT/payload_imaging_esp32/.pio/build/nodemcu-32s/bootloader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

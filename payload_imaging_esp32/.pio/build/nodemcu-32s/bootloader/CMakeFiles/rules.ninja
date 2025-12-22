@@ -318,7 +318,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_main_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\rozzy\.platformio\packages\tool-cmake\bin\cmake.exe --regenerate-during-build -SC:\Users\rozzy\.platformio\packages\framework-espidf\components\bootloader\subproject -BC:\Users\rozzy\OneDrive\Documents\2_Projects\StratoView_CubeSAT\.pio\build\nodemcu-32s\bootloader
+  command = C:\Users\rozzy\.platformio\packages\tool-cmake\bin\cmake.exe --regenerate-during-build -SC:\Users\rozzy\.platformio\packages\framework-espidf\components\bootloader\subproject -BC:\Users\rozzy\OneDrive\Documents\2_Projects\StratoView_CubeSAT\payload_imaging_esp32\.pio\build\nodemcu-32s\bootloader
   description = Re-running CMake...
   generator = 1
 
